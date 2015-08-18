@@ -1,0 +1,7 @@
+c:\users\shaun culler\documents\visual studio 2015\Projects\LeaugeOfLegendsTest\LeaugeOfLegendsTest\bin\Debug\LeaugeOfLegendsTest.exe.config
+c:\users\shaun culler\documents\visual studio 2015\Projects\LeaugeOfLegendsTest\LeaugeOfLegendsTest\bin\Debug\LeaugeOfLegendsTest.exe
+c:\users\shaun culler\documents\visual studio 2015\Projects\LeaugeOfLegendsTest\LeaugeOfLegendsTest\bin\Debug\LeaugeOfLegendsTest.pdb
+c:\users\shaun culler\documents\visual studio 2015\Projects\LeaugeOfLegendsTest\LeaugeOfLegendsTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\shaun culler\documents\visual studio 2015\Projects\LeaugeOfLegendsTest\LeaugeOfLegendsTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\shaun culler\documents\visual studio 2015\Projects\LeaugeOfLegendsTest\LeaugeOfLegendsTest\obj\Debug\LeaugeOfLegendsTest.exe
+c:\users\shaun culler\documents\visual studio 2015\Projects\LeaugeOfLegendsTest\LeaugeOfLegendsTest\obj\Debug\LeaugeOfLegendsTest.pdb
